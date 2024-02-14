@@ -7,4 +7,5 @@ public class Orden {
     private int idOrden;
     private Date fecha;
     private List<Producto> productoList;
+
 }
