@@ -23,5 +23,4 @@ public class Usuario {
     private String domicilio;
     private String telefono;
     private String email;
-
 }
